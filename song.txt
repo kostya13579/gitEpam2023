@@ -8,5 +8,7 @@ The super new couplet for branch FEATURE
 
 Super text for new commit
 
+Special text for solving conflict
+
 
 
