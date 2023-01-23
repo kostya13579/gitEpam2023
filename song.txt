@@ -5,10 +5,8 @@ New couplet for branch FEATURE
 
 The super new couplet for branch FEATURE
 
-<<<<<<< HEAD
-Some text for special commit
-=======
+
 Super text for new commit
->>>>>>> feature
+
 
 
