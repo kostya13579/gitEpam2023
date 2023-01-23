@@ -7,4 +7,6 @@ The super new couplet for branch FEATURE
 
 Super text for new commit
 
+Some new text for reading
+
 
